@@ -4,4 +4,4 @@ This is the development of an artificial neural network (ANN) to play one of my 
 
 # Instruction
 
-Simply run *The_game.py* and watch the AI in training itself to play a classic video game!
+Simply run *The_game.py* and watch the AI in training itself to play the game!
